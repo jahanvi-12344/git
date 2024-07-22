@@ -5,3 +5,4 @@
 3) To run the server type streamlit run app2.py
 
 
+[app2 - Google Chrome 2024-07-22 15-00-05.zip](https://github.com/user-attachments/files/16331139/app2.-.Google.Chrome.2024-07-22.15-00-05.zip)

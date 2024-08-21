@@ -61,6 +61,7 @@ def main():
             chain=load_qa_chain(llm=llm,chain_type='stuff')
             response=chain.run(input_documents=doc, question=query)
             st.write(response)
+            #
             
         
 if __name__=='__main__':
